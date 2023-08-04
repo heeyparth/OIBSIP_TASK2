@@ -18,7 +18,12 @@ This portfolio website is built to introduce myself as a web developer and showc
 
 ## Screenshots
 
-_Insert relevant screenshots of the website here_
+![image](https://github.com/heeyparth/OIBSIP_TASK2/assets/113229661/65fa31f0-5d74-4347-b211-e8da922a8483)
+![image](https://github.com/heeyparth/OIBSIP_TASK2/assets/113229661/abc70fde-2ab1-41f6-92ed-7fa1924947ac)
+![image](https://github.com/heeyparth/OIBSIP_TASK2/assets/113229661/d862224f-4317-4c5b-90f2-1c9c0a30f20a)
+![image](https://github.com/heeyparth/OIBSIP_TASK2/assets/113229661/1fa868d2-af46-4e00-8247-a82808475fcd)
+![image](https://github.com/heeyparth/OIBSIP_TASK2/assets/113229661/428d9bfe-7c95-445c-9c04-c4eedfd597da)
+
 
 ## Technologies
 
